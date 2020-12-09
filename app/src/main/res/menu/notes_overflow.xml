@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/report"
+        android:title="Report an Issue" />
+    <item
+        android:id="@+id/tagover"
+        android:title="Add Tags"/>
+    <item
+        android:id="@+id/deletenotes"
+        android:title="Delete"/>
+    <item
+        android:id="@+id/details"
+        android:title="Details"/>
+
+</menu>
